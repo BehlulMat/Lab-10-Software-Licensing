@@ -19,3 +19,13 @@ MIT and BSD licenses are simple and flexible. They allow people to use, modify, 
 Apache 2.0 also allows commercial use and provides explicit patent protection. AGPL 3.0 has stricter rules because it requires source code to be shared in certain situations, including when modified software is used over a network.
 
 I learned that choosing a software license is important because it determines how other people can use and share a project.
+
+## Exercise 2: Build Your Own License
+
+For this exercise, we created a custom software license for EmotionAI, an AI model designed to recognize emotions in text.
+
+Our license explains who can use the model, what modifications are allowed, the responsibilities of users, prohibited activities, and the consequences of violating the license.
+
+We chose these rules to encourage innovation while protecting the original developers and respecting user privacy.
+
+**Custom License:** [View LICENSE.md](LICENSE.md)
