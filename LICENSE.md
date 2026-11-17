@@ -2,8 +2,7 @@
 
 **License Version:** 1.0  
 **Project:** EmotionAI – Text Emotion Recognition Model  
-**Team Members:** Behlul Mat and [Partner's Name]
-
+**Team Members:** Behlul Mat and Umut Deniz Gayretli
 ## 1. Who Can Use the Model?
 
 Anyone can use EmotionAI, including students, researchers, developers, and companies. The model is available for educational, personal, and commercial purposes.
